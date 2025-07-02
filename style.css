@@ -9,7 +9,7 @@ body::selection{
     background-color: #fa0303;
 }
 .first {
-    background-image: url(https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg);
+    background-image: url(images/bg.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
